@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NasaAppJava</string>
+    <string name="planets">Planets</string>
+    <string name="api_key">mGVXt7vFARkL1VSfgrTUbOwZVaJhVqioPAVrnhDy</string>
+</resources>
